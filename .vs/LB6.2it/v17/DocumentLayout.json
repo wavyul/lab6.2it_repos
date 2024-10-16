@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LB6.2it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C57693-7C00-4418-94C1-A5A75732210D}|LB6.2it\\LB6.2it.vcxproj|D:\\project\\LB6.2it\\LB6.2it\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14C57693-7C00-4418-94C1-A5A75732210D}|LB6.2it\\LB6.2it.vcxproj|solutionrelative:LB6.2it\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8BB0E2-70B8-4196-B7A7-860AEE2079B8}|UnitTest6.2it\\UnitTest6.2it.vcxproj|D:\\project\\LB6.2it\\UnitTest6.2it\\UnitTest6.2it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA8BB0E2-70B8-4196-B7A7-860AEE2079B8}|UnitTest6.2it\\UnitTest6.2it.vcxproj|solutionrelative:UnitTest6.2it\\UnitTest6.2it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest6.2it.cpp",
+              "DocumentMoniker": "D:\\project\\LB6.2it\\UnitTest6.2it\\UnitTest6.2it.cpp",
+              "RelativeDocumentMoniker": "UnitTest6.2it\\UnitTest6.2it.cpp",
+              "ToolTip": "D:\\project\\LB6.2it\\UnitTest6.2it\\UnitTest6.2it.cpp",
+              "RelativeToolTip": "UnitTest6.2it\\UnitTest6.2it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T17:13:55.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\LB6.2it\\LB6.2it\\main.cpp",
+              "RelativeDocumentMoniker": "LB6.2it\\main.cpp",
+              "ToolTip": "D:\\project\\LB6.2it\\LB6.2it\\main.cpp",
+              "RelativeToolTip": "LB6.2it\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-16T17:13:06.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
